@@ -62,8 +62,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📌 Contributors
-👥 Developed by **Data Dragons** 🐉
-
 ## ⭐ Star this Repo
 If you found this project helpful, please give it a ⭐!

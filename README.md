@@ -66,8 +66,12 @@ cd smart-stock-analysis
 # Install dependencies
 pip install -r requirements.txt
 
+# Integrate all the workflow functions with final.py
+
+# Create Database for the functioning
+
 # Run the Streamlit app
-streamlit run app.py
+streamlit run final.py
 ```
 
 ## ⭐ Star this Repo

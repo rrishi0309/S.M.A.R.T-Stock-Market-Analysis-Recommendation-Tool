@@ -1,0 +1,9 @@
+functions-framework
+requests
+beautifulsoup4
+cloud-sql-python-connector[pg8000]
+sqlalchemy
+pg8000
+pandas
+google-cloud-secret-manager
+FinNews

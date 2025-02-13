@@ -1,0 +1,8 @@
+functions-framework
+cloud-sql-python-connector[pg8000]
+sqlalchemy
+google-cloud-secret-manager
+requests
+google.generativeai
+pg8000
+pandas

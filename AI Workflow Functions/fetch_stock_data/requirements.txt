@@ -1,0 +1,8 @@
+functions-framework
+yfinance
+pandas
+cloud-sql-python-connector[pg8000]
+sqlalchemy
+pg8000
+requests
+google-cloud-secret-manager

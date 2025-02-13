@@ -46,8 +46,16 @@ S.M.A.R.T (Stock Market Analysis & Recommendation Tool) is an AI-driven system t
 4. Generates a **weighted recommendation score**.
 5. Displays results on an **interactive dashboard**.
 
-## 📷 Screenshots
-🚀 Coming Soon...
+## 📹 Screen Recording
+
+https://github.com/user-attachments/assets/9912d0ed-aafc-4682-9f0d-84d19b606d44
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/f6c5c8be-76f0-41fd-b8a8-694138eb386b)
+![image](https://github.com/user-attachments/assets/75b3fdc0-692c-486f-b83c-ff9d8917b8e7)
+![image](https://github.com/user-attachments/assets/6c05bfeb-9072-496b-944d-519c50f9c1ac)
+![image](https://github.com/user-attachments/assets/3f571a8e-4cc0-4755-86be-aeaa8f84cd41)
+
 
 ## 📚 Installation & Setup
 ```bash

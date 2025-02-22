@@ -73,6 +73,12 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run final.py
 ```
+---
 
+## 💎 Contact
+### Developed by **Rishi Ramesh**  
+### 🔗 LinkedIn: https://www.linkedin.com/in/rishi0309/  
+
+---
 ## ⭐ Star this Repo
 If you found this project helpful, please give it a ⭐!
